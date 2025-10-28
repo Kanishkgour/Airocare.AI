@@ -1,12 +1,12 @@
-# 🚫 Node modules
+# # 🚫 Node modules
 node_modules/
 
-# ⚙️ Build output
-build/
+# # ⚙️ Build output
+# build/
 
-.env
+# .env
 
-.vscode/
-.idea/
+# .vscode/
+# .idea/
 
-package-lock.json
+# package-lock.json
