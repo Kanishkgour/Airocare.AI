@@ -35,11 +35,11 @@ function Chatcomponent() {
     <>
       {newChat && (
         <div className="startChat">
-          <h3 className=" text-center text-white-50">Start a new chat</h3>
+          <h3 className=" text-center text-white-50">what should we dive into today?</h3>
 
-          <div className="gemini-logo">
+          {/* <div className="gemini-logo">
             <img src={Logo} alt="gemini" />
-          </div>
+          </div> */}
         </div>
       )}
 

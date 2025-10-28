@@ -111,8 +111,8 @@ function Sidebar() {
       </div>
 
       {/* Footer */}
-      <div className="signs">
-        <p>Sigma.ai Artificial Intelligence</p>
+      <div className="signs text-center">
+        <p>AiroCare AI</p>
       </div>
     </section>
   );
